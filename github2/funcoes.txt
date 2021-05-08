@@ -1,2 +1,0 @@
-funcao
-nova funcao(inteiro)
